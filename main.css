@@ -1,0 +1,27 @@
+body {
+    /* height: 1000px; */
+    background-color: blue;
+    margin: 0;
+    font-family: 'El Messiri', times new roman;
+}
+#box {
+    width: 50%;
+    height: 100%;
+    margin: auto;
+    background-color: white;
+    padding: 30px;
+}
+#h1 {
+    margin-top: 0;
+}
+img {
+    width: 100%;
+    display: block;
+}
+
+/* 
+.blur {
+    filter: blur(5px);
+}
+*/
+
